@@ -89,18 +89,27 @@
 </details>
 
 <details>
-<summary>+Info</summary>
+<summary>Más de mí</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Conecta Conmigo!
+## Conecta Conmigo! 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-manuel-ramos-rodriguez" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img align="left" src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> <br><br>
+<a href="mailto:jmramosrodriguez@outlook.es" target="blank"><img align="left" src="https://img.shields.io/badge/jmramosrodriguez@outlook.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+  
+## Aniku
+
+<p align="center"> Este es mi proyecto de Angular + Nodejs
+<a href="https://aniku.netlify.app" target="blank">Aniku</a>
 
   </td>
   </tr>
