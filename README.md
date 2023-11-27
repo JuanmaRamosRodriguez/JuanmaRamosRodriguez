@@ -106,7 +106,8 @@
 ## ANIKU
 
 <p align="center"> Este es mi TFG realizado con Angular + Nodejs:
-<a href="https://aniku.netlify.app" target="_blank" align="center">Aniku</a>
+<a href="https://aniku.netlify.app" target="_blank">
+<img width="50px" align="center" src="https://static.vecteezy.com/system/resources/thumbnails/008/470/226/small_2x/heart-anime-cute-character-cartoon-model-emotion-illustration-clipart-drawing-kawaii-manga-design-idea-art-free-png.png"></a>
 </p>
 
   </td>
