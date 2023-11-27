@@ -92,7 +92,6 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
 ## Conecta Conmigo! 
 
@@ -104,10 +103,10 @@
 </td>
 <td width="50%" valign="top">
   
-## Aniku
+## ANIKU
 
-<p align="center"> Este es mi proyecto de Angular + Nodejs
-<a href="https://aniku.netlify.app" target="blank">Aniku</a>
+<p align="center"> Este es mi TFG realizado con Angular + Nodejs. 
+<a href="https://aniku.netlify.app" target="_blank">Aniku</a>
 
   </td>
   </tr>
