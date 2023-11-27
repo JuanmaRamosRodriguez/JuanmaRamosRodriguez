@@ -11,24 +11,22 @@
 <div>
   <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"/></a>
 </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hola%2C+¡Bienvenido+a+mi+github!;Soy+Juanma;Web+developer;Al+que+le+encanta+el+Frontend"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hola%2C+¡Bienvenido+a+mi+GitHub!;Soy+Juanma;Web+developer;Al+que+le+encanta+el+Frontend">
+
   </div>
 </div>
 
 <details>
 <summary>Sobre mí:</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
 <div align="left">
 
 ```js
 /**
- * Represents me.
+ * Mi perfil.
  * @constructor
  * @param {string} ciudad - Sevilla, España.
  * @param {string} lenguajes - Español, Inglés.
@@ -100,6 +98,7 @@
 <a href="https://www.linkedin.com/in/juan-manuel-ramos-rodriguez" target="_blank">
 <img align="left" src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> <br><br>
 <a href="mailto:jmramosrodriguez@outlook.es" target="blank"><img align="left" src="https://img.shields.io/badge/jmramosrodriguez@outlook.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</a></p>
 
 </td>
 <td width="50%" valign="top">
