@@ -106,7 +106,9 @@
 ## ANIKU
 
 <p align="center"> Este es mi TFG realizado con Angular + Nodejs. 
-<a href="https://aniku.netlify.app" target="_blank">Aniku</a>
+  
+  [Aniku](https://aniku.netlify.app) </p>
+
 
   </td>
   </tr>
