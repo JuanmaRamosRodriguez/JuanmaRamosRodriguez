@@ -5,10 +5,8 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary>Abrir perfil</summary>
+<summary>Abrir perfil:</summary>
 
-[comment]: <> (View Counter)
-<br>
 <div>
   <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -45,32 +43,32 @@
 </details>
 
 <details>
-<summary>Herramientas</summary>
+<summary>Herramientas:</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Backend:</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+      <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
     </kbd>
     <kbd>
       <kbd>Frontend:</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-      <img width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
     </kbd>
     <kbd>
       <kbd>Database:</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
     <br>
     <br>
@@ -80,16 +78,16 @@
       <kbd>Herramientas de trabajo:</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   </kbd>
   </p>
 </div>
 </details>
 
 <details>
-<summary>Más de mí</summary>
+<summary>Más de mí:</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
