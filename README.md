@@ -110,7 +110,7 @@
 
 <p align="center"> Mi TFG realizado con Angular + Nodejs:
 <a href="https://aniku.netlify.app" target="_blank"> <br>
-<img width="40%" align="center" src="https://raw.githubusercontent.com/JuanmaRamosRodriguez/Frontend/anikuLogo.png"></a>
+<img width="40%" align="center" src="https://www.pngall.com/wp-content/uploads/4/Heart-Symbol-Transparent.png"></a>
 </p>
 
   </td>
