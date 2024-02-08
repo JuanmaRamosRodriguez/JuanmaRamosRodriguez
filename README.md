@@ -66,7 +66,6 @@
       <kbd>Database:</kbd>
       <br>
       <br>
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
     <br>
@@ -107,7 +106,7 @@
 
 <p align="center"> Mi TFG realizado con Angular + Nodejs:
 <a href="https://aniku.netlify.app" target="_blank"> <br>
-<img width="40%" align="center" src="https://raw.githubusercontent.com/JuanmaRamosRodriguez/Aniku-Frontend/main/foto/Aniku-perfil-logo.png"></a>
+<img width="40%" align="center" src="https://raw.githubusercontent.com/JuanmaRamosRodriguez/Frontend/tree/main/src/images/ANIKU%20Logo%20-%20500x500.png"></a>
 </p>
 
   </td>
