@@ -106,7 +106,7 @@
 
 <p align="center"> Mi TFG realizado con Angular + Nodejs:
 <a href="https://aniku.netlify.app" target="_blank"> <br>
-<img width="40%" align="center" src="https://raw.githubusercontent.com/JuanmaRamosRodriguez/Frontend/tree/main/src/images/ANIKU%20Logo%20-%20500x500.png"></a>
+<img width="40%" align="center" src="https://raw.githubusercontent.com/JuanmaRamosRodriguez/Frontend/anikuLogo.png"></a>
 </p>
 
   </td>
