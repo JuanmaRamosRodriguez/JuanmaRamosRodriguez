@@ -60,13 +60,17 @@
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-      <img width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> 
+      <img width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" />
     </kbd>
     <kbd>
       <kbd>Database:</kbd>
       <br>
       <br>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+      <img width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
     </kbd>
     <br>
     <br>
