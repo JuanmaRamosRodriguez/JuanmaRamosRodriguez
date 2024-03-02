@@ -9,10 +9,7 @@
 <summary>Abrir perfil:</summary>
 
 <div>
-  <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"/></a>
-</div>
+ 
   <div align=center>
       <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hola%2C+¡Bienvenido+a+mi+GitHub!;Soy+Juanma;Web+developer;Al+que+le+encanta+el+Frontend">
 
