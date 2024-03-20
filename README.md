@@ -107,7 +107,7 @@
 
 <p align="center">Front End Development Libraries:
 <a href="https://freecodecamp.org/certification/fcc2c0806e7-b218-4967-a628-08b1e680edfc/front-end-development-libraries" target="_blank"> <br>
-<img width="40%" align="center" src="https://d33wubrfki0l68.cloudfront.net/78278bdf3a25d3e5558190b140cca9cbe86471e8/05e51/img/misuse-6.png"></a>
+<img width="50%" align="center" src="https://d33wubrfki0l68.cloudfront.net/78278bdf3a25d3e5558190b140cca9cbe86471e8/05e51/img/misuse-6.png"></a>
 </p>
 
   </td>
