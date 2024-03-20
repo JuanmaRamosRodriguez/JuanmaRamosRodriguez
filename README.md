@@ -103,11 +103,11 @@
 </td>
 <td width="50%" valign="top">
   
-## ANIKU
+## Certificados
 
-<p align="center"> Mi TFG realizado con Angular + Nodejs:
-<a href="https://aniku.netlify.app" target="_blank"> <br>
-<img width="40%" align="center" src="https://www.pngall.com/wp-content/uploads/4/Heart-Symbol-Transparent.png"></a>
+<p align="center">Front End Development Libraries:
+<a href="https://freecodecamp.org/certification/fcc2c0806e7-b218-4967-a628-08b1e680edfc/front-end-development-libraries" target="_blank"> <br>
+<img width="40%" align="center" src="https://d33wubrfki0l68.cloudfront.net/78278bdf3a25d3e5558190b140cca9cbe86471e8/05e51/img/misuse-6.png"></a>
 </p>
 
   </td>
